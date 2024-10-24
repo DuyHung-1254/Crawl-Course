@@ -48,7 +48,7 @@ Il sera animé par Colas Duflo, Professeur de lettres à l'université Paris Nan
 
 
 
-[Transcript of the video in English (PDF)](./data/Introduction/JLS1-V01_FINAL_V2_EN.pdf "Téléchargez la transcription de la vidéo en PDF")
+[Transcript of the video in English (PDF)](./Salon1/data/Introduction/JLS1-V01_FINAL_V2_EN.pdf "Téléchargez la transcription de la vidéo en PDF")
 
 
 
