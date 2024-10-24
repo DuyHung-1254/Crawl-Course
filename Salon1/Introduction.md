@@ -14,7 +14,7 @@ Il sera animé par Colas Duflo, Professeur de lettres à l'université Paris Nan
 
 
 
-[English version (PDF)](/asset-v1:upl+142002+archiveouvert+type@asset+block/IntroANGS1_V01.pdf "Téléchargez la transcription de la vidéo en PDF") 
+[English version (PDF)](./Salon1/data/Introduction/IntroANGS1_V01.pdf "Téléchargez la transcription de la vidéo en PDF") 
 
 
 
@@ -38,7 +38,7 @@ Il sera animé par Colas Duflo, Professeur de lettres à l'université Paris Nan
 
 
 
-[Transcription de la vidéo en français (PDF)](/asset-v1:upl+142002+archiveouvert+type@asset+block/NEWJLS1-V01_FINAL_V2-1.pdf "Téléchargez la transcription de la vidéo en PDF") 
+[Transcription de la vidéo en français (PDF)](./Salon1/data/Introduction/NEWJLS1-V01_FINAL_V2-1.pdf "Téléchargez la transcription de la vidéo en PDF") 
 
 
 
@@ -48,7 +48,7 @@ Il sera animé par Colas Duflo, Professeur de lettres à l'université Paris Nan
 
 
 
-[Transcript of the video in English (PDF)](/asset-v1:upl+142002+archiveouvert+type@asset+block/JLS1-V01_FINAL_V2_EN.pdf "Téléchargez la transcription de la vidéo en PDF")
+[Transcript of the video in English (PDF)](./Salon1/data/Introduction/JLS1-V01_FINAL_V2_EN.pdf "Téléchargez la transcription de la vidéo en PDF")
 
 
 
