@@ -37,25 +37,17 @@ S1 - Quiz 1
 
  A - Une démocratie B - Une monarchie parlementaire  C - Une monarchie absolue
 
-\- sans réponse
-
 2\. Quand sont parus les grands textes philosophiques des Lumières françaises ?
 
  A - Durant la Régence B - Durant le règne de Louis XV  C - Durant le règne de Louis XVI
-
-\- sans réponse
 
 3\. Qu'appelle-t-on “tournant des Lumières” ?
 
  A - Le passage du 17e au 18e siècle. B - Le milieu du 18e siècle.  C - Le passage du 18e au 19e siècle.
 
-\- sans réponse
-
 4\. Que sont les physiocrates ?
 
  A - Des économistes. B - Des médecins.  C - Des aristocrates paysans.
-
-\- sans réponse
 
 5\. Les livres publiés en France sont soumis à une censure préalable. A quoi est-elle particulièrement attentive ?
 
@@ -85,13 +77,9 @@ S1 - Quiz 1
 
  A - Les défenseurs des philosophes. B - Les représentants de l’église officielle.  C - Les adversaires des jésuites.
 
-\- sans réponse
-
 10\. Diderot, dans l’Encyclopédie, trouve une formule qui pourrait caractériser l’ambition des Lumières françaises. Laquelle est-ce dans la liste suivante :
 
  A - “Changer la façon commune de penser” B - “Sapere aude”  C - “Hâtons-nous de rendre la philosophie populaire”
-
-\- sans réponse
 
  Vérification finale votre réponse Enregistrer votre réponse
 
