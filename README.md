@@ -26,7 +26,7 @@ Loin d’être un intermède (ou un interrègne) entre Lumières et Romantisme, 
 
 
 
-[![Alt text](https://photo.znews.vn/w660/Uploaded/bzivoxbp/2020_04_29/Jisoo_BLACKPINK_su_kien_Dior_1.jpg)](https://drive.google.com/file/d/150h4W1H-vWS6BQ9UGLrlnQTDCGuva0hM/view?usp=drive_link)
+[Video][![Alt text](https://photo.znews.vn/w660/Uploaded/bzivoxbp/2020_04_29/Jisoo_BLACKPINK_su_kien_Dior_1.jpg)](https://drive.google.com/file/d/150h4W1H-vWS6BQ9UGLrlnQTDCGuva0hM/view?usp=drive_link)
 
 
 
