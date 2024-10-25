@@ -24,7 +24,7 @@ Loin d’être un intermède (ou un interrègne) entre Lumières et Romantisme, 
 
 **La notion de "tournant" et la spécificité de la période**
 
-[Link xem video](https://drive.google.com/file/d/150h4W1H-vWS6BQ9UGLrlnQTDCGuva0hM/view?usp=drive_link)
+[Link xem video](https://thanhnien.vn/nhan-sac-thang-hang-cua-jisoo-blackpink-trong-bo-anh-moi-1851087348.htm)(https://drive.google.com/file/d/150h4W1H-vWS6BQ9UGLrlnQTDCGuva0hM/view?usp=drive_link)
 
 
 
